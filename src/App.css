@@ -1,0 +1,41 @@
+.mainDiv{
+    margin-left: 30%;
+    margin-top: 100px;
+    background-color: burlywood;
+    padding: 40px;
+    color: white;
+    margin-right: 30%;
+    box-shadow: 0 4px 8px 0 rgb(141, 138, 138);
+}
+.header h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.header p{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(249, 250, 255);
+}
+.total{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgb(133, 98, 45);
+    border-radius: 25px;
+}
+.form{
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+}
